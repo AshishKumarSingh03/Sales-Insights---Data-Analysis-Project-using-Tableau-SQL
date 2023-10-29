@@ -1,4 +1,4 @@
-# Sales-Insights---Data-Analysis-Project-using-Tableau-SQL
+
 
 <h1 align="center">Sales Insights - Data Analysis using Tableau & SQL <a href="https://public.tableau.com/app/profile/ashish.kumar.singh2884/vizzes" target="_blank" rel="noreferrer"> <img src="https://github.com/AshishKumarSingh03" alt="tableau" width="55" height="40"/> </a> </h1>
 
